@@ -111,7 +111,7 @@ void imprimir_geracao (no *arv, int ger, int aux){
 void op_imprimir_geracao (no *arv){
     int num;
     printf ("Digite a geracao desejada: ");
-    scanf ("%d", &num);
+    scanf ("%d", &num) ;
 
     imprimir_geracao (arv, num, 1);
 }
