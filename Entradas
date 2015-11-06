@@ -1,1 +1,39 @@
+Entrada para o programa arvores.c:
 
+3
+3
+6
+4
+1
+2
+4
+6
+3
+9
+3
+3
+4
+1
+4
+2
+4
+3
+5
+2
+1
+
+Entrada para o programa genealogica.c:
+4
+filho pai mae
+pai avo1 avó1
+mae avo2 avó2
+avo1 bisavo bisavó
+1
+3
+2
+pai
+3
+4
+filho
+avo1
+0
