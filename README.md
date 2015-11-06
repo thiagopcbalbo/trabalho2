@@ -24,4 +24,9 @@ Esse programa tem como objetivo realizar diversas operações basicas sobre árv
 
 2-)Árvore Genealógica
 
-Esse programa tem como objetivo realizar diversas operações sobre uma árvore genealógica. Logo quando abrir o programa, você terá que inserir um inteiro N, e em seguida N tuplas a serem operadas. Depois disso você poderá, através de um menu, executar diversas operações como insersão, imprimir uma geração apenas, ou verificar o grau de parentesco entre dois membros da arvore. Para finalizar o programa, basta selecionar a opção '0' no menu.
+Esse programa tem como objetivo realizar diversas operações sobre uma árvore genealógica. Logo quando abrir o programa, você terá que inserir um inteiro N, e em seguida N tuplas a serem operadas. Depois disso você poderá, através de um menu, executar diversas operações:
+1 - Imprimir geração da árvore
+2 - Imprime todos os antepassados de um membro
+3 - Imprime em labelled bracketing
+4 - Verifica o grau de parentesco entre dois membros
+0 - Terimna o programa
